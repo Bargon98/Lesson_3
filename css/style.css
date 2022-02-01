@@ -1,0 +1,55 @@
+*{
+	color:rgb(116, 13, 13);
+}
+
+#heading{
+	color: black;
+}
+
+h2{
+	color: black;
+}
+
+div{
+	color: rgb(189, 4, 41);
+}
+
+.dude, .dude-senior{
+	color: red;
+}
+
+.city{
+	color: forestgreen;
+}
+
+.days .city{
+	color: mediumseagreen;
+}
+
+.monday .developers{
+	color: rgb(10, 10, 148);
+}
+
+.dog{
+	color: rgb(255, 81, 0);
+}
+
+.bacchanal{
+	color: red;
+}
+
+.friday .dude{
+	color: black;
+}
+
+footer span{
+	color: blueviolet;
+}
+
+footer .name{
+	color: crimson;
+}
+
+[target="_blank"] {
+	color: royalblue;
+}
